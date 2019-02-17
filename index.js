@@ -10,7 +10,7 @@ function johnLennonFacts(facts) {
   let i = 0; i++;
   while (facts >= 0) {
 (facts)}
-  return(facts.shift('!!!'))
+  return(facts + '!!!')
 }
 
 
