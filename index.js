@@ -1,6 +1,6 @@
 
 function theBeatlesPlay(musicians, instruments) {
-  var emptyArray = []
+  var newBeatlesPlay = []
   const i = 0
   for(let i = 0; i < theBeatlesPlay.length; i++) {
   return(`${musicians[i]} plays ${instruments[i]}`);
