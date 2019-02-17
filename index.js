@@ -22,7 +22,7 @@ function iLoveTheBeatles(num) {
   var beatlesRule = []
   do {
     beatlesRule.push("I love the Beatles!");
-    num--
+    num++
   }
   while (num > 0 && num < 15);
   return(beatlesRule)
