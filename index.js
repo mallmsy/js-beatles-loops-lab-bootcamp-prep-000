@@ -5,16 +5,17 @@ function theBeatlesPlay(musicians, instruments) {
   return(`${musicians[i]} plays ${instruments[i]}`);
 }
 
+
 function johnLennonFacts(facts) {
   let i = 0; i++;
   while (facts >= 0) {
 (facts)}
-  return(facts + '!!!')
+  return(facts.shift('!!!'))
 }
+
 
 function iLoveTheBeatles(num) {
   do {console.log("I love the Beatles!");
   num++
   }  while (num < 15)
-  if (num === 7);
   }
