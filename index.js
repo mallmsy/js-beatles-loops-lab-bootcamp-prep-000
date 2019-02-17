@@ -22,5 +22,4 @@ function iLoveTheBeatles(num) {
   var beatlesRule = []
   do {beatlesRule.push("I love the Beatles!");
   num++
-  }  while (num < 15)
   }
