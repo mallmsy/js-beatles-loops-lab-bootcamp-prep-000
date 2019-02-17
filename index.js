@@ -15,6 +15,7 @@ function johnLennonFacts(facts) {
   while (facts > 0) {
  facts[i] + '!!!'
 }
+return(excitingFacts)
 }
 
 
