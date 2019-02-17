@@ -16,4 +16,5 @@ function iLoveTheBeatles(num) {
   do {console.log("I love the Beatles!");
   num++
   }  while (num < 15)
+  if (num === 7);
   }
