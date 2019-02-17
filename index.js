@@ -1,5 +1,5 @@
 
-function theBeatlesPlay(musicians, instruments) {
+/* function theBeatlesPlay(musicians, instruments) {
   var newBeatlesPlay = []
   const i = 0
   for(let i = 0; i < musicians.length; i++) {
@@ -7,6 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return(newBeatlesPlay);
 }
+*/
 
 
 function johnLennonFacts(facts) {
@@ -18,9 +19,10 @@ console.log('hi')}
 return(excitingFacts)
 }
 
-
+/*
 function iLoveTheBeatles(num) {
   do {console.log("I love the Beatles!");
   num++
   }  while (num < 15)
   }
+  */
